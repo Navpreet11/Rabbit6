@@ -8,3 +8,4 @@ gcloud
 sseclient
 pycryptodome
 requests_toolbelt
+requests_toolbelt._compat
