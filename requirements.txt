@@ -7,5 +7,4 @@ python_jwt
 gcloud 
 sseclient
 pycryptodome
-requests_toolbelt
-requests_toolbelt._compat
+requests-toolbelt==1.0.0
